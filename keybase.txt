@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/l33tname
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://l33t.name
+  * I am l33tname (https://keybase.io/l33tname) on keybase.
+  * I have a public key with fingerprint 1E1C 3468 B06E 2BE0 AD02  95E7 6CBE 81FC 8465 BDC5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1e1c3468b06e2be0ad0295e76cbe81fc8465bdc5",
+            "host": "keybase.io",
+            "key_id": "6CBE81FC8465BDC5",
+            "uid": "e61eed4d0d706e31e7a7207672fdbd00",
+            "username": "l33tname"
+        },
+        "service": {
+            "hostname": "l33t.name",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398007993,
+    "expire_in": 157680000,
+    "prev": "c42c0543d216d6525b242621513d76637309764bcecd07542c0813ce6cca85de",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMTosNcw5ayWrBPj6QPvkhiCg1/srFZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSoaphsnGJmYWSQZmqUZJqQaJKQZGlqap5mbJSakWhmnJFiZmpkkpyaZK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQ1MzZydXC0M0ZpN7JxRmkvhQskWpmmJqa
+YpJikGIOtMLYMNU80dzIwNzM3CgtJSnFwACksDi1KC8xNxWoOsfYuATMrNVRAoqW
+ZSangtwMshpJhR6YraNUUJRfkp+cnwMUzigpKbAC6SqpLAApK09NiocaEJ+UmZcC
+9DRQQ1lqUXFmfp6SlSFQZXJJJshEQ2NLCwMDc0tLYx2l1IqCzKLU+EyQClNzM6C4
+gQHImtQyoJHJJkbJBqYmxilGhmYpZqZGpklGJkZmRoamhsYp5mZmxubGBpbmZiZJ
+yanJKQbmpiDVFobGyalmycmJFqYpIAcXpxbm5StZmQKdmZgONLI4Mz0vsaS0COjf
+TiYZFgZGJgY2ViZQtDFwcQrAIvOSpwBD8zpliaqyRf+DFij8kf9vU39OKeXX7s9t
+SlVTfA7JnrtwQnWLkf2eV2s0L97mmz4t6VCg5/FHpufE95z0TnioeHJLxk3Nf/Xb
+wy2n8dZ6Kp2dfDdmx9WPihs6q4N3r/rWns+dcMCNRYO3VTPkx7H1zMaVKikLc7l8
+jQr0z3lM5wv9wTNp1qODUfWOd/ed8sut3Cg9x7ugQO8q97refDN9jg1BLYL1HLUm
+fgrrXuzzPLJom9m5qmvb20wOC4j+NJi6Jc3XKufngVlXbkQJajXOZjj1Lua+9IHz
+ezbHfHdQWhrZYPtWRfmG5vzTX6dMuz91JnNU7Jc66Sfti0SLzLcqHvyum79TJ0O4
+5OOFjBk7pU9fjAkX/vzywy37kFmHHWverVXllyyZf3X2R5Ou+eHXb4cKFrWysDVp
+vzZlWGVZmrHP42Wy2D4tr6dLV23lfW5lsrbNwXvSp62nUoM7bm8L5A+KS6t1fno6
+P2y1y+9bT3eH75hz6VbtWauHX99/YlZ8f1lBtvrrsiyndRvO9r7OvnKTJ6PxJfvZ
+O+XZ4ZOnP4/r/KjlU+ld1+38uOVG/qZ9osKRD4+/C7jMGB5zfZPXVK6uywu3aOn/
+Ne/ZcGXv5MNLP98L8rPRXvrcya/4JMvldUbC2WVNzXEzxe/6cvNyTXv4ZcbcolXK
+1xq+nXwudGtqZaZ9YlBte0/sbJaQE1LzGA7OufJQe+Gyrx79mwE=
+=dIly
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/l33tname
+
+==================================================================
