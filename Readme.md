@@ -1,7 +1,8 @@
 About me
 ===============
 
-Online at [l33t.name](http://l33t.name)
+Made with :heart: by [l33t.name](https://l33t.name)
 
-
-The background image is from SpaceX [here](https://www.flickr.com/photos/spacex/23808740049/).
+Fonts:
+ * Social media icons: [icomoon.io](https://icomoon.io/)
+ * Title [blade runner movie font](http://www.fontspace.com/phil-steinschneider/blade-runner-movie-font)
